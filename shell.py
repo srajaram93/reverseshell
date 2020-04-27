@@ -11,5 +11,3 @@ print("payload")
 print(url+payload)
 
 requests.get(url+payload)
-#print(r.headers)
-#print(r.text)
